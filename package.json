@@ -1,0 +1,24 @@
+{
+  "name": "dance-score-sheets",
+  "version": "1.0.0",
+  "description": "This is a website that will calculate rankings of dancers given judges scores. Project uses a JSON database, and would ideally be deployed to FireBase. The front end is written in Javascript using the React Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dance-score-sheets/dance-score-sheets.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "python"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dance-score-sheets/dance-score-sheets/issues"
+  },
+  "homepage": "https://github.com/dance-score-sheets/dance-score-sheets#readme"
+}
